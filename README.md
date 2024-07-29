@@ -3,7 +3,7 @@
 I'm actively looking for opportunities to start my career as a Java backend Devoloper
 </h3>
 <!-- <h3 align="left">I'm actively looking for opportunities to start my career as a Java backend Devoloper</h3> -->
-<h3 align="left">Skills: Java | Postgres | Gradle | Maven | Hibernate | Spring | Docker | Apache Kafka | Redis |</h3>
+<h3 align="left">Skills: Java | Postgres | Gradle | Maven | Hibernate | Spring | Docker | Apache Kafka | Redis </h3>
 
 <h3 align="left">Connect with me:</h3>
 
